@@ -1,0 +1,28 @@
+{
+  "name": "twitter-clone-backend",
+  "version": "0.0.0",
+  "description": "Aims to build a clone for Twitter API",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranjithnori/twitter-clone-backend.git"
+  },
+  "keywords": [
+    "twitter"
+  ],
+  "author": "ranjithnori",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ranjithnori/twitter-clone-backend/issues"
+  },
+  "homepage": "https://github.com/ranjithnori/twitter-clone-backend#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
