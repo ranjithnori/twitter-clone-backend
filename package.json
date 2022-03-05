@@ -4,7 +4,8 @@
   "description": "Aims to build a clone for Twitter API",
   "main": "index.js",
   "scripts": {
-    "test": "npm run test"
+    "test": "npm run test",
+    "start": "nodemon src/server.js"
   },
   "repository": {
     "type": "git",
